@@ -1,0 +1,6 @@
+services:
+  employee-app:
+    image: employee-app:v1
+    container_name: employee-app-compose
+    ports:
+      - "8081:8081"
