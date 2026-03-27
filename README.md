@@ -37,12 +37,17 @@ pom.xml
 
 ## Screenshots
 
-### Employee List
-(Add screenshot here)
+### Home / Employee List
+![Home Page](ScreenShots/Home-page.png)
 
-### Validation
-(Add screenshot here)
+### Add Employee Validation
+![Validation Page](ScreenShots/Validation-page.png)
 
+### About Page
+![About Page](ScreenShots/About-page.png)
+
+### Employee API Output
+![API Output](ScreenShots/Api output.png)
 ## Run Locally
 
 ### 1. Clone the repository
