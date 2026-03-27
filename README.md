@@ -47,7 +47,7 @@ pom.xml
 ![About Page](ScreenShots/About-page.png)
 
 ### Employee API Output
-![API Output](ScreenShots/Api output.png)
+![API Output](ScreenShots/API-output.png)
 ## Run Locally
 
 ### 1. Clone the repository
