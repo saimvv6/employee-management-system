@@ -26,8 +26,6 @@ A simple full-stack Employee Management System built using **Spring Boot**, **Th
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 employee-management-system/
 ├── src/
@@ -53,7 +51,9 @@ employee-management-system/
 ![About Page](ScreenShots/About-page.png)
 
 ### Employee API Output
-![API Output](ScreenShots/API-output.png)## Run Locally
+![API Output](ScreenShots/API-output.png)
+
+## Run Locally
 
 ### 1. Clone the repository
 ```bash
@@ -92,7 +92,7 @@ http://localhost:8081/employees
 
 ```bash
 docker-compose up --build
-## Author
 
+## Author
 **Saikumar**  
 GitHub: [saimvv6](https://github.com/saimvv6)
