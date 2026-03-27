@@ -26,15 +26,21 @@ A simple full-stack Employee Management System built using **Spring Boot**, **Th
 
 ## Project Structure
 
-```text
-src/main/java
-src/main/resources/templates
-src/main/resources/application.properties
-Dockerfile
-docker-compose.yml
-pom.xml
-```
+## Project Structure
 
+```text
+employee-management-system/
+├── src/
+│   └── main/
+│       ├── java/
+│       └── resources/
+│           ├── templates/
+│           └── application.properties
+├── ScreenShots/
+├── Dockerfile
+├── docker-compose.yml
+├── pom.xml
+└── README.md
 ## Screenshots
 
 ### Home / Employee List
@@ -82,10 +88,11 @@ http://localhost:8081/employees
 
 ## Docker Run
 
+```md
+## Run with Docker
+
 ```bash
 docker-compose up --build
-```
-
 ## Author
 
 **Saikumar**  
